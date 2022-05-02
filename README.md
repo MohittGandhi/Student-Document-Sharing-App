@@ -1,6 +1,6 @@
 # file_share
 
-A Flutter based projrct where which share the data between student and faculty.
+A Flutter based project where which share the data between student and faculty.
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
